@@ -1,0 +1,15 @@
+/* Styling for HW-03 Goes in this File */
+
+body {
+	font-family: Arial;
+
+}
+
+.firstCircle {
+  fill: black;
+}
+
+
+.point {
+  fill: black;
+}
